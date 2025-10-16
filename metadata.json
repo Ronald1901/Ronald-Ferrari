@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI PDF Reader",
+  "description": "An intelligent PDF reader that uses Gemini to provide text-to-speech functionality. Upload your books, listen to them with a variety of voices, and save your progress automatically.",
+  "requestFramePermissions": []
+}
